@@ -28,7 +28,9 @@ http://localhost:7861/
 
 Enjoy , youtube downloader , downladed files should be on the "downlads" folder inside the project
 
-if you like to add more fonts , more music backgrounds just add to more fonts or music mp3 files if you like.
+Notes:
+Music provided is a samples AI music , fonts is some sample opensourced fonts 
+if you like to add more fonts , more music backgrounds just add them to the folders 
 
 ## ⚠️ Educational Purpose & Disclaimer
 
