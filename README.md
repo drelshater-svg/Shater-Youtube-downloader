@@ -26,7 +26,9 @@ The script will automatically set up an isolated sandbox environment using the f
 open your browser:
 http://localhost:7861/
 
-Enjoy , youtube downloader
+Enjoy , youtube downloader , downladed files should be on the "downlads" folder inside the project
+
+if you like to add more fonts , more music backgrounds just add to more fonts or music mp3 files if you like.
 
 ## ⚠️ Educational Purpose & Disclaimer
 
