@@ -5,9 +5,16 @@ A local web-interface tool to download videos, stitch adaptive high-res channels
 
 ### 📋 Prerequisites (Mandatory)
 This application uses **FFmpeg** for all underlying audio and video processing operations. It must be present on your computer system:
-* **Windows**: Download the essentials compilation package and add its `/bin` directory folder to your system environment variables `Path`.
-* **macOS**: Install via Homebrew: `brew install ffmpeg`
-* **Linux**: Install via apt: `sudo apt install ffmpeg`
+
+
+* **Windows**: SEARCH GOOGLE "INSTALL FFmepeg for windows" 
+   Download the essentials compilation package and add its `/bin` directory folder to your system environment variables `Path`.
+
+* **macOS**: Install via Homebrew:
+  *  `brew install ffmpeg`
+   
+* **Linux**: Install via apt:
+  *  `sudo apt install ffmpeg`
 
 ### 🚀 Quick Start Instructions
 
