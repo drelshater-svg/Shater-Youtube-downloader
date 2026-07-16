@@ -21,7 +21,7 @@ This application uses **FFmpeg** for all underlying audio and video processing o
      ./run.sh
      ```
 
-The script will automatically set up an isolated sandbox environment using the fast `uv` package manager, fetch the optimized Python 3.11 configuration layer, install your required packages, and open a private local browser dashboard instantly!
+The script will automatically set up an isolated sandbox environment using the fast `uv` package manager, fetch the optimized Python 3.12 configuration layer, install your required packages, and open a private local browser dashboard instantly!
 
 open your browser:
 http://localhost:7861/
