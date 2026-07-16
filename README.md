@@ -29,7 +29,7 @@ http://localhost:7861/
 Enjoy , youtube downloader , downladed files should be on the "downlads" folder inside the project
 
 Notes:
-Music provided is a samples AI music , fonts is some sample opensourced fonts 
+Music provided from my AI music tests , fonts is some sample opensourced fonts with lic. inculded.
 if you like to add more fonts , more music backgrounds just add them to the folders 
 
 ## ⚠️ Educational Purpose & Disclaimer
