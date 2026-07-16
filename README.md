@@ -3,9 +3,6 @@
 A local web-interface tool to download videos, stitch adaptive high-res channels, stamp custom text watermarks, mix background audio loops, and burn styled captions.
 
 
-
-A local web-interface tool to download videos, stitch adaptive high-res channels, stamp custom text watermarks, mix background audio loops, and burn styled captions.
-
 ### 📋 Prerequisites (Mandatory)
 This application uses **FFmpeg** for all underlying audio and video processing operations. It must be present on your computer system:
 * **Windows**: Download the essentials compilation package and add its `/bin` directory folder to your system environment variables `Path`.
@@ -26,6 +23,10 @@ This application uses **FFmpeg** for all underlying audio and video processing o
 
 The script will automatically set up an isolated sandbox environment using the fast `uv` package manager, fetch the optimized Python 3.11 configuration layer, install your required packages, and open a private local browser dashboard instantly!
 
+open your browser:
+http://localhost:7861/
+
+Enjoy , youtube downloader
 
 ## ⚠️ Educational Purpose & Disclaimer
 
