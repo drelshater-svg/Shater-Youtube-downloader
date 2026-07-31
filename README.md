@@ -68,9 +68,11 @@ Install Git:
       Extract the folder to C:\ffmpeg.Add C:\ffmpeg\bin to your system's Environment Variables (PATH).
       
       Install UV: Open PowerShell and run:
+      
         > irm https://astral.sh | iex
 
       Run the Project: Open Command Prompt (cmd) and run:
+      
       > git clone https://github.com/drelshater-svg/Shater-Youtube-downloader.git
       > cd Shater-Youtube-downloader
       > uv venv
