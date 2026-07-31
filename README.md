@@ -62,7 +62,7 @@ after setup .for opening the script on linux u just need to open the terminal in
    > uv run yotube_downloader.py
 
    open your browser:
-   > http://localhost:7861/
+   > http://localhost:7860/
    
    or
    
@@ -106,7 +106,7 @@ after completing setup all requirement
    > uv run yotube_downloader.py
 
 open your browser:
-   > http://localhost:7861/
+   > http://localhost:7860/
    
    or
    
