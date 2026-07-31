@@ -59,13 +59,21 @@ after setup .for opening the script on linux u just need to open the terminal in
 
 # Windows Manual Instructions
 If you prefer to install the prerequisites manually on Windows, follow these steps:
+
 Install Git: 
+
    Download and run the installer from the official Git website
-      https://git-scm.com/
-   Install FFmpeg:
-      Download the essentials build from Gyan.dev.
-         https://www.gyan.dev/ffmpeg/builds/
+      https://git-scm.com
+      
+
+      
+      Install FFmpeg
+   
+      Download the essentials build from Gyan.dev 
+      > https://www.gyan.dev/ffmpeg/builds/
+         
       Extract the folder to C:\ffmpeg.Add C:\ffmpeg\bin to your system's Environment Variables (PATH).
+
       
       Install UV: Open PowerShell and run:
       
@@ -79,6 +87,7 @@ Install Git:
       > uv pip install -r requirements.txt
       > uv run yotube_downloader.py
 
+      
       
 after completing setup all requirement 
 # Running the script / Windows , run.bat or 
