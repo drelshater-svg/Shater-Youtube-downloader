@@ -63,6 +63,8 @@ after setup .for opening the script on linux u just need to open the terminal in
 
    open your browser:
    http://localhost:7861/
+   or
+   http://127.0.0.1:7860/
 
 
 # Windows Manual Instructions
@@ -101,9 +103,10 @@ after completing setup all requirement
 # Running the script / Windows , run.bat or 
    > uv run yotube_downloader.py
 
-   open your browser:
+  open your browser:
    http://localhost:7861/
-
+   or
+   http://127.0.0.1:7860/
 
 
 The script will automatically set up an isolated sandbox environment using the fast `uv` package manager, fetch the optimized Python 3.12 configuration layer, install your required packages, and open a private local browser dashboard instantly!
