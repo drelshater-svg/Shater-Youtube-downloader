@@ -125,9 +125,6 @@ open your browser:
 
 The script will automatically set up an isolated sandbox environment using the fast `uv` package manager, fetch the optimized Python 3.12 configuration layer, install your required packages, and open a private local browser dashboard instantly!
 
-open your browser:
-http://localhost:7861/
-
 Enjoy , youtube downloader , downladed files should be on the "downlads" folder inside the project
 
 Notes:
