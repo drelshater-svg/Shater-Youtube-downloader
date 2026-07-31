@@ -45,8 +45,11 @@ This application uses **FFmpeg** for all underlying audio and video processing o
   
      #clone the reop or downlad it from git and extract it 
      > git clone https://github.com/drelshater-svg/Shater-Youtube-downloader.git
+     > 
      > cd Shater-Youtube-downloader
+     > 
      > uv pip install -r requirements.txt
+     > 
      > uv run yotube_downloader.py
 
 # Running the script / linux ,run.sh or:
