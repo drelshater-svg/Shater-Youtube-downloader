@@ -85,9 +85,9 @@ Install Git:
 
       
       Install FFmpeg
-   
-      Download the essentials build from Gyan.dev 
-      > https://www.gyan.dev/ffmpeg/builds/
+      
+      https://www.ffmpeg.org/
+
          
       Extract the folder to C:\ffmpeg.Add C:\ffmpeg\bin to your system's Environment Variables (PATH).
 
