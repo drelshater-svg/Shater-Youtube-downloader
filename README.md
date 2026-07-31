@@ -2,6 +2,8 @@
 # 🎛️ A Video Downloader ,Customization & Processing Suite
 A local web-interface tool to download videos, stitch adaptive high-res channels, stamp custom text watermarks, mix background audio loops, and burn styled captions.
 
+<img width="1267" height="629" alt="image-screen" src="https://github.com/user-attachments/assets/44398bea-b9b6-4b30-bd66-726cc5e736fe" />
+
 
 ### Video Tutorial
 > https://www.youtube.com/@elshater007/videos
