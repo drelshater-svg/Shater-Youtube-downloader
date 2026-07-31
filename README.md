@@ -22,11 +22,70 @@ This application uses **FFmpeg** for all underlying audio and video processing o
 2. **Ensure Assets Folders Exist**: Make sure two folders named `music` and `fonts` exist inside the project directory. Drop your custom `.mp3` or `.ttf` files inside them.
 3. **Launch the Web Application**:
    * 🪟 **Windows**: Simply double-click the `run.bat` script file.
-   * 🍏 **macOS** & 🐧 **Linux**: Open your terminal inside the project directory and execute:
+   * 🍏 **macOS** & 🐧 **Linux**: Open your terminal inside the project directory and execute , Try:
      ```bash
-     chmod +x run.sh
-     ./run.sh
+     chmod +x setup.sh
+     ./setup.sh
      ```
+
+     or for more detailed inst , line by line:
+
+     #ffmpeg libs
+     > sudo apt install ffmpeg
+     
+     #UV python venv
+     > sudo apt install curl   
+     > curl -LsSf https://astral.sh/uv/install.sh | sh
+       
+     #install git
+     > sudo apt install git
+  
+     #update
+     > sudo apt update
+  
+     #clone the reop or downlad it from git and extract it 
+     > git clone https://github.com/drelshater-svg/Shater-Youtube-downloader.git
+     > cd Shater-Youtube-downloader
+     > uv pip install -r requirements.txt
+     > uv run yotube_downloader.py
+
+# Running the script / linux ,run.sh or:
+after setup .for opening the script on linux u just need to open the terminal inside the forlder and run one line
+   > uv run yotube_downloader.py
+
+   open your browser:
+   http://localhost:7861/
+
+
+# Windows Manual Instructions
+If you prefer to install the prerequisites manually on Windows, follow these steps:
+Install Git: 
+   Download and run the installer from the official Git website
+      https://git-scm.com/
+   Install FFmpeg:
+      Download the essentials build from Gyan.dev.
+         https://www.gyan.dev/ffmpeg/builds/
+      Extract the folder to C:\ffmpeg.Add C:\ffmpeg\bin to your system's Environment Variables (PATH).
+      
+      Install UV: Open PowerShell and run:
+        > irm https://astral.sh | iex
+
+      Run the Project: Open Command Prompt (cmd) and run:
+      > git clone https://github.com/drelshater-svg/Shater-Youtube-downloader.git
+      > cd Shater-Youtube-downloader
+      > uv venv
+      > uv pip install -r requirements.txt
+      > uv run yotube_downloader.py
+
+      
+after completing setup all requirement 
+# Running the script / Windows , run.bat or 
+   > uv run yotube_downloader.py
+
+   open your browser:
+   http://localhost:7861/
+
+
 
 The script will automatically set up an isolated sandbox environment using the fast `uv` package manager, fetch the optimized Python 3.12 configuration layer, install your required packages, and open a private local browser dashboard instantly!
 
