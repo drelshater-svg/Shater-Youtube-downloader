@@ -93,8 +93,11 @@ Install Git:
 
       
       Install UV: Open PowerShell and run:
-      
+
+        > winget install --id=astral-sh.uv -e
+         or
         > irm https://astral.sh | iex
+
 
       Run the Project: Open Command Prompt (cmd) and run:
       
