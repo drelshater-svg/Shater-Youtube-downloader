@@ -6,8 +6,7 @@ A local web-interface tool to download videos, stitch adaptive high-res channels
 
 
 ### Video Tutorial
-> https://www.youtube.com/@elshater007/videos
-[![Watch the video](https://youtube.com)](https://youtu.be)
+> [![Video Tutorial - Watch the video](https://www.youtube.com/watch?v=VPu4wN4ZvKM)](https://www.youtube.com/watch?v=VPu4wN4ZvKM)
 
 ### 📋 Prerequisites (Mandatory)
 This application uses **FFmpeg** for all underlying audio and video processing operations. It must be present on your computer system:
